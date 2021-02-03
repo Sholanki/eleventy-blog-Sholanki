@@ -3,3 +3,9 @@ node_modules
 
 # build artefacts
 public
+
+# _site is where the static generated files are copied to
+_site/
+
+node_modules/
+.idea/
