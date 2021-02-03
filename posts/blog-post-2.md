@@ -1,6 +1,6 @@
 ---
 layout: post-layout.njk 
-title: How To Get Rich Quick
+title: How to deploy 11ty site on Netlify
 date: 2021-03-02
 tags: ['post']
 ---
