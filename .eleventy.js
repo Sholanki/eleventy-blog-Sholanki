@@ -15,12 +15,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode('excerpt', article => extractExcerpt(article));
   
   eleventyConfig.addPassthroughCopy("css");
- return {
-    dir: {
-      input: "_site",
-      output: "public",
-    },
-  };
+ 
 };
 
 function extractExcerpt(article) {
