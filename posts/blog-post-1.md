@@ -1,7 +1,7 @@
 ---
 layout: post-layout.njk 
 title: How I did my first site on 11ty
-date: 2019-05-30
+date: 2021-01-02
 tags: ['post']
 ---
 This is the first website that I created from scratch with help of 11ty. This site is mostly based from this guide [Creating Blog with Eleventy](https://keepinguptodate.com/pages/2019/06/creating-blog-with-eleventy/) and from markdown guides [Markdown Monster Documentation](https://markdownmonster.west-wind.com/docs/_4xs10gaui.htm). This link contains the syntax of using Markdown syntax pretty well. For IDE, I preferably use VS Code Editor.
