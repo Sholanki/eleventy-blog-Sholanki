@@ -16,6 +16,12 @@ module.exports = function (eleventyConfig) {
   
   eleventyConfig.addPassthroughCopy("css");
  
+  return {
+    dir: {
+      output: "public",
+    },
+  };
+ 
 };
 
 function extractExcerpt(article) {
