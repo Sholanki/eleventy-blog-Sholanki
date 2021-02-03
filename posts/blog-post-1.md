@@ -20,4 +20,4 @@ The learnings that I gathered are:
 	Posts are usually created in markdown language. Currently, my knowledge is still pretty basic and might be below it because I have just started using it. As I figure things out, I will keep on adding posts on what I am discoverin about markdown language.
 	
 5. ### Deploying it to Netlify
-	That will be my next step. Currently it is hosted on local server.
+	That will be my next step. Currently it is hosted on local server. Check out my next blog on it
